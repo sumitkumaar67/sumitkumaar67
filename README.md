@@ -1,6 +1,4 @@
-<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Sumit%20Kumar%20Sah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20NIT%20Warangal%20%E2%80%A2%20SDE%20Aspirant%20%E2%80%A2%20Creator&descSize=18&descAlignY=60&animation=fadeIn" alt="header" width="100%" />
 
 <a href="https://github.com/SumitKumar-21">
@@ -33,16 +31,11 @@ public class SumitKumarSah extends Developer implements ProblemSolver, ContentCr
     public void dailyRoutine() {
         while (true) {
             solveProblems();      // LeetCode / Codeforces / CodeChef
-            buildSomethingReal(); // projects > tutorials
-            shareWhatILearn();    // YouTube: @SumitNitw67
-            sleep();              // optional 😅
+            buildSomethingReal(); // projects 
         }
     }
 }
 ```
-
-
-
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 ## 🛠️ Tech Arsenal
 
