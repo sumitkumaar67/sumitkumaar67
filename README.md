@@ -1,112 +1,182 @@
+<!-- ═══════════════════════ HEADER ═══════════════════════ -->
 <div align="center">
 
-# Hi, I'm Sumit Kumar Sah 👋
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:58A6FF&height=220&section=header&text=Sumit%20Kumar%20Sah&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=CSE%20%40%20NIT%20Warangal%20%E2%80%A2%20SDE%20Aspirant%20%E2%80%A2%20Creator&descSize=18&descAlignY=60&animation=fadeIn" alt="header" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Computer+Science+Student;Problem+Solver;DSA+Enthusiast;Full+Stack+Developer;Java+OOPs+Lover" alt="Typing SVG" />
+<a href="https://github.com/SumitKumar-21">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=900&color=58A6FF&center=true&vCenter=true&width=700&height=40&lines=while(alive)+%7B+solve()%3B+build()%3B+repeat()%3B+%7D;Grinding+DSA+%26+Competitive+Programming;Building+full-stack+apps+with+React+%2B+Node+%2B+MongoDB;Java+OOP+enthusiast+%E2%98%95;Making+tech+content+on+YouTube+%F0%9F%8E%A5" alt="Typing SVG" />
+</a>
 
-<p>
-  <b>CSE Student at NIT Warangal, Telangana</b>
-</p>
+<br/>
 
-<p>
-  🚀 Passionate about <b>DSA</b>, <b>Competitive Programming</b>, <b>Java</b>, and <b>Full Stack Development</b>
-</p>
+<img src="https://img.shields.io/badge/NIT%20Warangal-CSE-1F6FEB?style=flat-square&logo=graduation-cap&logoColor=white" />
+<img src="https://img.shields.io/badge/Target-SDE%20%40%20Product%20Companies-2EA043?style=flat-square" />
+<img src="https://img.shields.io/badge/Status-Open%20to%20Internships-F78166?style=flat-square" />
+<img src="https://komarev.com/ghpvc/?username=SumitKumar-21&label=Profile%20Views&color=58A6FF&style=flat-square" />
 
 </div>
 
----
+<br/>
 
-## About Me
+<!-- ═══════════════════════ ABOUT (as a Java class) ═══════════════════════ -->
+## 🧬 `whoami`
 
-I’m a Computer Science student who enjoys solving challenging problems and turning ideas into working solutions. My focus is on building a strong foundation in:
+```java
+public class SumitKumarSah extends Developer implements ProblemSolver, ContentCreator {
 
-- Data Structures & Algorithms
-- Competitive Programming
-- Object-Oriented Programming in Java
-- Full Stack Development
-- Clean, scalable, and efficient code
+    String  college   = "NIT Warangal, Telangana 🇮🇳";
+    String  degree    = "B.Tech, Computer Science & Engineering";
+    String  goal      = "SDE @ product-based companies";
 
-I’m continuously improving my skills with a strong focus on:
-- Mastering DSA
-- Improving CP performance
-- Building impactful projects
-- Writing robust software solutions
+    String[] obsessions = { "DSA", "Competitive Programming", "Java OOP", "Full-Stack Web" };
+    String[] learning   = { "System Design", "Scalable Backends", "Clean Architecture" };
 
----
+    @Override
+    public void dailyRoutine() {
+        while (true) {
+            solveProblems();      // LeetCode / Codeforces / CodeChef
+            buildSomethingReal(); // projects > tutorials
+            shareWhatILearn();    // YouTube: @SumitNitw67
+            sleep();              // optional 😅
+        }
+    }
+}
+```
 
-## Tech Stack
+<!-- ═══════════════════════ NOW ═══════════════════════ -->
+## 🎯 Currently
 
-<div align="center">
+| 🔭 Working on | 🌱 Learning | 💬 Ask me about |
+|:--|:--|:--|
+| Placement prep & DSA sheets | React · Node.js · MongoDB depth | NIT Warangal life |
+| A full-stack learning platform for JEE/NEET aspirants | System design fundamentals | DSA & CP roadmaps |
+| Polishing my portfolio & resume projects | Writing production-grade Java | Internships & placements |
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-</div>
-
-### Core Strengths
-- DSA & Problem Solving
-- Java OOPs
-- Competitive Programming
-- Full Stack Fundamentals
-- Version Control
-- Building real-world projects
-
----
-
-## Featured Project
-
-### Find Stay - Weather App
-A practical full-stack project designed to provide a seamless experience for users looking for stays while also offering weather insights for better decision-making.
-
-- User-friendly interface
-- Smart location-based planning
-- Weather-aware travel experience
-- Project-based learning in full-stack development
-
----
-
-## GitHub Stats
+<!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SumitKumar-21&show_icons=true&theme=tokyonight&hide_border=true)
+**Languages**
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumar-21&layout=compact&theme=tokyonight&hide_border=true)
+<img src="https://skillicons.dev/icons?i=java,py,js,cpp,html,css&perline=6" alt="languages" />
+
+**Frameworks & Backend**
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&perline=4" alt="frameworks" />
+
+**Tools & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel&perline=6" alt="tools" />
 
 </div>
 
----
+<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
+## 🚀 Featured Projects
 
-## Current Focus
+<table>
+<tr>
+<td width="50%" valign="top">
 
-- Mastering DSA
-- Improving Competitive Programming skills
-- Building scalable and impactful applications
-- Strengthening Java and full-stack fundamentals
+### 🏠 Find Stay
+A full-stack accommodation-finding app built with **Node.js** — search, browse and discover places to stay with a clean, user-friendly flow.
 
----
+`Node.js` · `Express` · `Full-Stack`
 
-## Connect
+</td>
+<td width="50%" valign="top">
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/sumit-kumar-sah-6586a1369">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:sksumitkumar2618@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="https://sumitkumar67.com.np">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio">
-  </a>
-</p>
+### 🌦️ Weather App
+A deployed **React** weather application with real-time conditions and forecasts for any location.
 
----
+`React` · `REST API` · `Deployed`
 
-> “Mastering DSA, CP, and building solutions that matter.”
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎓 JEE/NEET Learning Platform *(in progress)*
+A platform for Nepali JEE/NEET aspirants — curated resources, notes and mentor access, all in one place.
+
+`MERN` · `Full-Stack` · `Building`
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio
+My personal site showcasing projects, skills and journey.
+
+[**sumitkumar67.com.np →**](https://sumitkumar67.com.np)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://github.com/SumitKumar-21?tab=repositories">
+  <img src="https://img.shields.io/badge/Explore%20all%20repositories-%E2%86%92-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<!-- ═══════════════════════ YOUTUBE ═══════════════════════ -->
+## 🎥 Beyond Code — My YouTube Channel
+
+I teach what I learn. My channel **[@SumitNitw67](https://www.youtube.com/@SumitNitw67)** covers:
+
+`DSA` · `Competitive Programming` · `Web Development` · `AI & Tech` · `Placements & Internships` · `NIT Warangal Campus Life`
+
+<div align="center">
+<a href="https://www.youtube.com/@SumitNitw67">
+  <img src="https://img.shields.io/badge/Subscribe-@SumitNitw67-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+</div>
+
+<!-- ═══════════════════════ STATS ═══════════════════════ -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SumitKumar-21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumar-21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=SumitKumar-21&theme=tokyonight&hide_border=true&background=0D1117" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SumitKumar-21&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&height=300" width="95%" />
+
+</div>
+
+<!-- ═══════════════════════ SNAKE ═══════════════════════ -->
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SumitKumar-21/SumitKumar-21/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SumitKumar-21/SumitKumar-21/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/SumitKumar-21/SumitKumar-21/output/github-snake-dark.svg" />
+</picture>
+
+</div>
+
+<!-- ═══════════════════════ CONNECT ═══════════════════════ -->
+## 🤝 Let's Connect
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/sumit-kumar-sah-6586a1369"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:sksumitkumar2618@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://sumitkumar67.com.np"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"></a>
+<a href="https://www.youtube.com/@SumitNitw67"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=4000&pause=1500&color=8B949E&center=true&vCenter=true&width=600&lines=%22Mastering+DSA%2C+CP%2C+and+building+solutions+that+matter.%22;Open+to+collaborations%2C+internships+%26+good+conversations+%E2%9C%A8" alt="quote" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58A6FF,50:1F6FEB,100:0D1117&height=110&section=footer" width="100%" alt="footer" />
 
 </div>
