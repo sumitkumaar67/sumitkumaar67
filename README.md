@@ -10,9 +10,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/NIT%20Warangal-CSE-1F6FEB?style=flat-square&logo=graduation-cap&logoColor=white" />
-<img src="https://img.shields.io/badge/Target-SDE%20%40%20Product%20Companies-2EA043?style=flat-square" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-F78166?style=flat-square" />
-<img src="https://komarev.com/ghpvc/?username=SumitKumar-21&label=Profile%20Views&color=58A6FF&style=flat-square" />
 
 </div>
 
