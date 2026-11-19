@@ -43,14 +43,7 @@ public class SumitKumarSah extends Developer implements ProblemSolver, ContentCr
 }
 ```
 
-<!-- ═══════════════════════ NOW ═══════════════════════ -->
-## 🎯 Currently
 
-| 🔭 Working on | 🌱 Learning | 💬 Ask me about |
-|:--|:--|:--|
-| Placement prep & DSA sheets | React · Node.js · MongoDB depth | NIT Warangal life |
-| A full-stack learning platform for JEE/NEET aspirants | System design fundamentals | DSA & CP roadmaps |
-| Polishing my portfolio & resume projects | Writing production-grade Java | Internships & placements |
 
 <!-- ═══════════════════════ TECH STACK ═══════════════════════ -->
 ## 🛠️ Tech Arsenal
