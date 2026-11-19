@@ -24,7 +24,7 @@
 ```java
 public class SumitKumarSah extends Developer implements ProblemSolver, ContentCreator {
 
-    String  college   = "NIT Warangal, Telangana 🇮🇳";
+    String  college   = "NIT Warangal, Telangana, India";
     String  degree    = "B.Tech, Computer Science & Engineering";
     String  goal      = "SDE @ product-based companies";
 
@@ -69,69 +69,6 @@ public class SumitKumarSah extends Developer implements ProblemSolver, ContentCr
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,vercel&perline=6" alt="tools" />
 
-</div>
-
-<!-- ═══════════════════════ PROJECTS ═══════════════════════ -->
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🏠 Find Stay
-A full-stack accommodation-finding app built with **Node.js** — search, browse and discover places to stay with a clean, user-friendly flow.
-
-`Node.js` · `Express` · `Full-Stack`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌦️ Weather App
-A deployed **React** weather application with real-time conditions and forecasts for any location.
-
-`React` · `REST API` · `Deployed`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎓 JEE/NEET Learning Platform *(in progress)*
-A platform for Nepali JEE/NEET aspirants — curated resources, notes and mentor access, all in one place.
-
-`MERN` · `Full-Stack` · `Building`
-
-</td>
-<td width="50%" valign="top">
-
-### 🌐 Portfolio
-My personal site showcasing projects, skills and journey.
-
-[**sumitkumar67.com.np →**](https://sumitkumar67.com.np)
-
-</td>
-</tr>
-</table>
-
-<div align="center">
-
-<a href="https://github.com/SumitKumar-21?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20all%20repositories-%E2%86%92-1F6FEB?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
-<!-- ═══════════════════════ YOUTUBE ═══════════════════════ -->
-## 🎥 Beyond Code — My YouTube Channel
-
-I teach what I learn. My channel **[@SumitNitw67](https://www.youtube.com/@SumitNitw67)** covers:
-
-`DSA` · `Competitive Programming` · `Web Development` · `AI & Tech` · `Placements & Internships` · `NIT Warangal Campus Life`
-
-<div align="center">
-<a href="https://www.youtube.com/@SumitNitw67">
-  <img src="https://img.shields.io/badge/Subscribe-@SumitNitw67-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
 </div>
 
 <!-- ═══════════════════════ STATS ═══════════════════════ -->
