@@ -60,16 +60,16 @@ public class SumitKumarSah extends Developer implements ProblemSolver, ContentCr
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SumitKumar-21&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&rank_icon=github" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumitKumar-21&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=sumitkumaar67&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitkumaar67&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=SumitKumar-21&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=sumitkumaar67&theme=tokyonight&hide_border=true&background=0D1117" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SumitKumar-21&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&height=300" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sumitkumaar67&theme=tokyo-night&hide_border=true&bg_color=0D1117&area=true&height=300" width="95%" />
 
 </div>
 
@@ -77,9 +77,9 @@ public class SumitKumarSah extends Developer implements ProblemSolver, ContentCr
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SumitKumar-21/SumitKumar-21/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SumitKumar-21/SumitKumar-21/output/github-snake.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/SumitKumar-21/SumitKumar-21/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sumitkumaar67/sumitkumaar67/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sumitkumaar67/sumitkumaar67/output/github-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/sumitkumaar67/sumitkumaar67/output/github-snake-dark.svg" />
 </picture>
 
 </div>
